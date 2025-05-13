@@ -1,0 +1,11 @@
+PREFACE
+
+This book is my life... my heart... my blood. Put into words. I wanted to take every organ and convert it into a chapter. Every relationship into a character. Every phase of my life into a theme.
+
+It's not really supposed to make sense, as I feel my life doesn't make sense. It makes other things, but not sense. Sense is a product of time. Of memories... of looking back... Looking at a stock chart of commodities during wartime... or a photo of chicks hitchhiking in the 70s... Hindsight 20/20... in hindsight it makes sense. Not in the present.
+
+So these stories... they are in the past... but I want to give them a different life... a color of presence. I want you to live them and feel them... to be lost in them, even wondering if you'll ever go back to who you used to be... to that person that made sense.
+
+I struggled often to not offend acquaintances when I shared with them my words... usually because they wanted them to make sense... and I just wanted to share the essence of the thing. It reminds me of the Buddhist proverb about the man pointing at the moon and the student looking at his finger. It's the same when you point for some dogs in the direction you have already thrown the ball.... some dogs know to follow the direction that isn't pointing out of your finger, and sniff around ahead. Some of them just look confused. And other dogs are just checking if you have a treat, and if they don't smell it, then they're not interested in lasers or the moon anyway.
+
+So I have to ask for your kindness... This reality is messy in a sense... as soon as you move away from the base harmonics it really has a lot of interference. Language is far away from the base harmonics of reality... and communication must be one of the last frontiers. If we could communicate just One thing to everyone... even once... it would really just change everything in a good way. I am trying to communicate about that one thing I think we could all agree on. And to get there I'm telling all kinds of stories that I hope you enjoy.

@@ -6,7 +6,6 @@ type: "page"
 status: "draft"
 draft: true
 visibility: "public"
-modified: "nan"
 ---
 
 <!--kg-card-begin: html-->

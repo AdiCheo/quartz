@@ -6,7 +6,6 @@ type: "post"
 status: "draft"
 draft: true
 visibility: "public"
-modified: "nan"
 ---
 
 <h1 id="integration-automation-engineering-portfolio">Integration &amp; Automation Engineering Portfolio</h1>
