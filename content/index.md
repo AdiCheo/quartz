@@ -1,9 +1,8 @@
 ---
 title: Home
 --- 
-[[UPDATES]] | [[WRITINGS/index|WRITINGS]] | [[CONTACT]] | [[BIO]]
+## [[UPDATES/index|UPDATES]] | [[WRITINGS/index|WRITINGS]] | [[CONTACT]] | [[BIO]]
 ___
-
 
 <div align="center">
 <h2 style="margin-bottom:0;">Welcome to the Mind Garden of</h2>

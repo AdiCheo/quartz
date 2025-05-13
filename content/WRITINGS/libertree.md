@@ -1,0 +1,11 @@
+---
+title: "You found a seed of LiberTree"
+alias: "libertree"
+feature_image: "https://images.unsplash.com/photo-1565612936643-ea2484086bb6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ"
+type: "page"
+status: "published"
+visibility: "public"
+modified: "2020-09-21T19:18:47.000Z"
+---
+
+<p>The seed led you here. </p><p>LiberTree is a collective effort to transform this world... <br>by changing ourselves... <br>one behavior at a time.</p><p>To join this program read more on how to plant your seed.</p><h2 id="plant-a-tree-of-liberation">Plant a Tree of Liberation</h2><p>This is a place to start on the path towards getting the fruit of freedom, power, and connection.</p><p>All the great teachers of the past taught the same thing - Know Thyself. </p><p>My effort here is to translate the ancient wisdom into a usable form for modern people, my friends and family.</p><h3 id="tangible-tools-for-spiritual-beings">Tangible Tools For Spiritual Beings</h3><p>LiberTree breaks wisdom down to basic steps (like a map) and tells you how to follow them to establish an enlightenment practice.</p><p>Get ancient knowledge, gain atomic-precision awareness, join a community of sages and reprogram your brain for supreme consciousness.</p><p>LiberTree is a real-life mentorship program to reprogram your life, your brain, and engage your spirit.</p><p>The program will take the shape of a game.</p><p>Similar to role-playing video games - except everything is real.</p><h2 id="get-ready-to-play">Get Ready To Play</h2><p>To start in this new adventure use the form below (or <a href="https://forms.gle/ndHHMHGEXD1pJR4W8">this link</a>).</p><p>You will get the next steps... within 24 hours... if the seed is valid.</p><p>For additional support at this stage contact the person who shared the seed with you.</p><p>While you wait for the next steps you can read more about the <a href="/methodology/">Methodology</a>.</p><!--kg-card-begin: html--><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSddZIvYTbhLi0jrKFmSH6lKY087RfJA-Hz0i-zhSYkK_9gaqQ/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe><!--kg-card-end: html-->

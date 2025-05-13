@@ -1,0 +1,11 @@
+---
+title: "Storms"
+alias: "storms"
+feature_image: "https://images.unsplash.com/photo-1510541928850-609b3b64e00a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ"
+type: "post"
+status: "published"
+visibility: "public"
+modified: "2020-08-16T20:07:28.000Z"
+---
+
+<p>I guess you might have fallen asleep... <br>Into that unconscious storm that darkens your days... <br>I hope you find a way to face it bravely, <br>to dance in the rain, <br>to see beyond the dark clouds.</p><p>Every drop from the dark sky nourishes the earth below and joins the network of rivers which run all the way into our hearts. <br>The beat of my heart applauds all of the possibilities we continue to overcome.</p><p>The wind blows down the yellow leaves and the ripe fruit, <br>as well as any tress without deep roots <br>and houses without stable foundations.</p><p>The lightning breaks the sky and sparks the fires of rebirth. <br>Lighting shows us that the path of least resistance is not straight, it is drawn instantly in so many directions and ultimately connects the scattered clouds to the solid conductors in the earth.</p><p>Thunder shakes us awake,<br>the power of the sound draws our attention.</p><p>Behind the dark veils of storms, <br>the faces of stars and planets observe the dramas playing in our home stage... <br>Finding some pleasure in empathy as they battle their own storms <br>And shining their light compassionately to remind us we are not alone.</p><p>Of course, being so immature we cannot appreciate their conditions. <br>We find it hard to relate. <br>We often forget the magnificent audience that surrounds us.</p><p>Falling deeper into the holes we dig and keep digging. <br>Hoping that eventually we will dig deep enough to discover a resource of escape. <br>Something to build a vessel</p><p>Something to propel a message out into the abyss of space. <br>Something to cross into another world and carry on or drama to other spheres.</p><p>Even then... Can we be sure we are appreciated? <br>Can we ever know how much we are loved by rocks and fires? <br>Or do we apologize our way into new planets? <br>Carrying the guilt of the plastic infected Oceans and poisoned air we left behind.</p><p>When it's my time to go, I will not accept those mysterious delusions</p>
