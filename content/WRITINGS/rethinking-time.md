@@ -8,7 +8,10 @@ visibility: "public"
 modified: "2024-12-23T02:51:46.000Z"
 ---
 
-<figure class="kg-card kg-image-card"><img src="__GHOST_URL__/content/images/2025/02/continewomone_dark.jpg" class="kg-image" alt="" loading="lazy" width="2000" height="1705" srcset="__GHOST_URL__/content/images/size/w600/2025/02/continewomone_dark.jpg 600w, __GHOST_URL__/content/images/size/w1000/2025/02/continewomone_dark.jpg 1000w, __GHOST_URL__/content/images/size/w1600/2025/02/continewomone_dark.jpg 1600w, __GHOST_URL__/content/images/2025/02/continewomone_dark.jpg 2231w" sizes="(min-width: 720px) 720px"></figure><h2 id="the-challenge-of-time">The Challenge of Time</h2>
+
+<figure class="kg-card kg-image-card">
+<a src="__GHOST_URL__/content/images/2025/02/continewomone_dark.jpg" class="kg-image" alt="" loading="lazy" width="2000" height="1705" srcset="__GHOST_URL__/content/images/size/w600/2025/02/continewomone_dark.jpg 600w, __GHOST_URL__/content/images/size/w1000/2025/02/continewomone_dark.jpg 1000w, __GHOST_URL__/content/images/size/w1600/2025/02/continewomone_dark.jpg 1600w, __GHOST_URL__/content/images/2025/02/continewomone_dark.jpg 2231w" sizes="(min-width: 720px) 720px">
+</figure><h2 id="the-challenge-of-time">The Challenge of Time</h2>
 <p>When I first started building the <a href="https://conti.newom.one">Life Calendar app</a>, I thought I was just making another productivity tool. Little did I know I was stepping into one of humanity's oldest challenges: how do we represent and relate to time?</p>
 <p>As <a href="https://rupertshepherd.info/documentation/the-problem-with-dates">Rupert Shepherd points out</a>, even something as seemingly simple as recording dates becomes complex when you consider different calendar systems. The Julian calendar, Gregorian calendar, lunar calendars, and various cultural new year celebrations all represent valid ways of marking time.</p>
 <h2 id="beyond-linear-time">Beyond Linear Time</h2>

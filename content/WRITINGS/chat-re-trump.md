@@ -18,7 +18,8 @@ modified: "2022-05-23T05:34:39.000Z"
 		<div class="col-md-12 col-xl-12 chat card">
 		   <div class="card-body msg_card_body">
 				
-<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="__GHOST_URL__/content/images/" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">
+<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg">
+<a src="__GHOST_URL__/content/images/" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">
 
 While I wont say that nothing that Trump had done has benifited the citizens, I don't think it has been much more or much less than other presidents before him <br>
 His policies are  standard whitewashed republican policies. Low tax, low regulations, pro gun, pro life etc.
@@ -36,7 +37,8 @@ the things that don't stand the test of time were the accusations he hates, wome
 <br>
 rather his actions on those topics stand well against the criticisms
 <span class="msg_time_send">1:33</span>
-</div><div class="img_cont_msg" style="width: 40px"><img src="__GHOST_URL__/content/images/size/w150/2020/07/DC4B735E-8C9A-4696-9DFA-14D863ADA4D9.jpeg" class="rounded-circle user_img_msg"></div></div>
+</div><div class="img_cont_msg" style="width: 40px">
+<a src="__GHOST_URL__/content/images/size/w150/2020/07/DC4B735E-8C9A-4696-9DFA-14D863ADA4D9.jpeg" class="rounded-circle user_img_msg"></div></div>
 
 			</div>
 		</div>

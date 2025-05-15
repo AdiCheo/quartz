@@ -14,7 +14,11 @@ modified: "2022-05-23T05:31:05.000Z"
 <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.31/default/snipcart.css" />
 <script async src="https://cdn.snipcart.com/themes/v3.0.31/default/snipcart.js"></script>
 <div hidden id="snipcart" data-api-key="OTM2OGJhNDEtMmM0Zi00OWRhLWI1MzEtNjdhNzE0ZjdiMmNiNjM3NTA4MzcyMDA3MTkwMTgz" data-config-modal-style="side"></div>
-<!--kg-card-end: html--><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="__GHOST_URL__/posts/joyful-nowhere/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Joyful NowHere</div><div class="kg-bookmark-description">An all inclusive training retreat to escape any limitations and live a location independent and financially secure life.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://adicheo.com/favicon.png" alt=""><span class="kg-bookmark-author">ADICHEO</span><span class="kg-bookmark-publisher">Adi K O</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://images.unsplash.com/photo-1490730141103-6cac27aaab94?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;MXwxMTc3M3wwfDF8c2VhcmNofDJ8fEpveXxlbnwwfHx8&amp;ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;w&#x3D;2000" alt=""></div></a></figure><!--kg-card-begin: html--><button class="snipcart-add-item"
+<!--kg-card-end: html-->
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="__GHOST_URL__/posts/joyful-nowhere/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Joyful NowHere</div><div class="kg-bookmark-description">An all inclusive training retreat to escape any limitations and live a location independent and financially secure life.</div><div class="kg-bookmark-metadata">
+<a class="kg-bookmark-icon" src="https://adicheo.com/favicon.png" alt=""><span class="kg-bookmark-author">ADICHEO</span><span class="kg-bookmark-publisher">Adi K O</span></div></div><div class="kg-bookmark-thumbnail">
+<a src="https://images.unsplash.com/photo-1490730141103-6cac27aaab94?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;MXwxMTc3M3wwfDF8c2VhcmNofDJ8fEpveXxlbnwwfHx8&amp;ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;w&#x3D;2000" alt=""></div></a>
+</figure><!--kg-card-begin: html--><button class="snipcart-add-item"
   data-item-id="joyful-nowhere"
   data-item-price="5999.99"
   data-item-url="/posts/joyful-nowhere"
@@ -251,50 +255,65 @@ body {
   
   <div class="gallery">
     
-    <figure class="item">
-      <div class="img-wrap"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/cl-01.png" alt="" /></div>
+    
+<figure class="item">
+      <div class="img-wrap">
+<a src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/cl-01.png" alt="" /></div>
       <figcaption class="caption">
           <h3>Luminor Marina 1950<br/>3 days automatic ACCIAIO</h3>
           <a class="btn-buy" href="#">Buy</a>
           <a class="btn-details" href="#">See details</a>
       </figcaption>
-    </figure>
     
-    <figure class="item">
-      <div class="img-wrap"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/cl-02.png" alt="" /></div>
+</figure>
+    
+    
+<figure class="item">
+      <div class="img-wrap">
+<a src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/cl-02.png" alt="" /></div>
       <figcaption class="caption">
           <h3>Radiomir 1940 Acciaio</h3>
           <a class="btn-buy" href="#">Buy</a>
           <a class="btn-details" href="#">See details</a>
       </figcaption>
-    </figure>
     
-    <figure class="item">
-      <div class="img-wrap"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/cl-03.png" alt="" /></div>
+</figure>
+    
+    
+<figure class="item">
+      <div class="img-wrap">
+<a src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/cl-03.png" alt="" /></div>
       <figcaption class="caption">
           <h3>L'egiziano</h3>
           <a class="btn-buy" href="#">Buy</a>
           <a class="btn-details" href="#">See details</a>
       </figcaption>
-    </figure>
     
-    <figure class="item">
-      <div class="img-wrap"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/cl-04.png" alt="" /></div>
+</figure>
+    
+    
+<figure class="item">
+      <div class="img-wrap">
+<a src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/cl-04.png" alt="" /></div>
       <figcaption class="caption">
           <h3>Luminor Chrono 2000</h3>
           <a class="btn-buy" href="#">Buy</a>
           <a class="btn-details" href="#">See details</a>
       </figcaption>
-    </figure>
     
-    <figure class="item">
-      <div class="img-wrap"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/cl-05.png" alt="" /></div>
+</figure>
+    
+    
+<figure class="item">
+      <div class="img-wrap">
+<a src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/cl-05.png" alt="" /></div>
       <figcaption class="caption">
           <h3>Radiomir 1940<br/>Chronograph Oro Rosso</h3>
           <a class="btn-buy" href="#">Buy</a>
           <a class="btn-details" href="#">See details</a>
       </figcaption>
-    </figure>
+    
+</figure>
     
   </div>
   

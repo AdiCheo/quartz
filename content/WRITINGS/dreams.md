@@ -9,4 +9,7 @@ draft: true
 modified: "2020-09-19T07:54:33.000Z"
 ---
 
-<figure class="kg-card kg-image-card kg-width-wide"><img src="/content/images/2020/12/433A0796-604E-4BAE-8946-978E952391CA.jpeg" class="kg-image" alt loading="lazy" width="2000" height="2668" srcset="/content/images/size/w600/2020/12/433A0796-604E-4BAE-8946-978E952391CA.jpeg 600w, /content/images/size/w1000/2020/12/433A0796-604E-4BAE-8946-978E952391CA.jpeg 1000w, /content/images/size/w1600/2020/12/433A0796-604E-4BAE-8946-978E952391CA.jpeg 1600w, /content/images/2020/12/433A0796-604E-4BAE-8946-978E952391CA.jpeg 2000w" sizes="(min-width: 1200px) 1200px"></figure>
+
+<figure class="kg-card kg-image-card kg-width-wide">
+<a src="/content/images/2020/12/433A0796-604E-4BAE-8946-978E952391CA.jpeg" class="kg-image" alt loading="lazy" width="2000" height="2668" srcset="/content/images/size/w600/2020/12/433A0796-604E-4BAE-8946-978E952391CA.jpeg 600w, /content/images/size/w1000/2020/12/433A0796-604E-4BAE-8946-978E952391CA.jpeg 1000w, /content/images/size/w1600/2020/12/433A0796-604E-4BAE-8946-978E952391CA.jpeg 1600w, /content/images/2020/12/433A0796-604E-4BAE-8946-978E952391CA.jpeg 2000w" sizes="(min-width: 1200px) 1200px">
+</figure>

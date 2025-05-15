@@ -18,7 +18,8 @@ modified: "2020-11-07T19:01:55.000Z"
     <header class="row page-header text-white">
       <div class="page-header-inner">
         <div class="columns large-6 image-container">
-          <img src="https://images.unsplash.com/photo-1546162290-8687d72f3cfd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ" alt="Where the magic happens - Proven Process, Mental Reprogramming and Entrepreneur Community" width="80%">
+          
+<a src="https://images.unsplash.com/photo-1546162290-8687d72f3cfd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ" alt="Where the magic happens - Proven Process, Mental Reprogramming and Entrepreneur Community" width="80%">
         </div>
   
         <div class="columns large-6">
@@ -51,7 +52,8 @@ modified: "2020-11-07T19:01:55.000Z"
                 <p>This specimen represents 99% of entrepreneurs. They feed on shiny objects and noisy social media information. Their attention span is 14 seconds, plans rarely exceed this month. So confused about what to do, they try do everything to make sure they cover all the bases. They see business as a giant tangled knot of chaos. </p>
               </div>
               <div class="columns medium-6 image-container text-center">
-                <img src="https://www.consulting.com/website/assets/img/the_problem_before.png" alt="We help neurotic do-everything-preneurs">
+                
+<a src="https://www.consulting.com/website/assets/img/the_problem_before.png" alt="We help neurotic do-everything-preneurs">
               </div>
             </li>
   
@@ -61,7 +63,8 @@ modified: "2020-11-07T19:01:55.000Z"
                 <p> This specimen is rare accounting for only 1% of entrepreneurs. They feed on value, clarity and efficiency. They have a laser focus that can stay on task for hours and their plans are long-term. You wont find them on social media talking, they're doing. They are deliberate, scientific, see business clearly and always win.</p>
               </div>
               <div class="columns medium-6 medium-pull-6 image-container text-center">
-                <img src="https://www.consulting.com/website/assets/img/the_solutio_after.png" alt="Become laser-focused entrepreneurs">
+                
+<a src="https://www.consulting.com/website/assets/img/the_solutio_after.png" alt="Become laser-focused entrepreneurs">
               </div>
             </li>
           </ul>
@@ -80,7 +83,8 @@ modified: "2020-11-07T19:01:55.000Z"
             <li class="columns medium-6" data-equalizer-watch>
               <div class="row">
                 <div class="columns large-3 large-offset-1 image-container text-center">
-                  <img src="https://www.consulting.com/website/assets/img/ico_process.png" alt="">
+                  
+<a src="https://www.consulting.com/website/assets/img/ico_process.png" alt="">
                 </div>
                 <div class="columns large-8 feature-description">
                   <h3>Proven Process</h3>
@@ -96,7 +100,8 @@ modified: "2020-11-07T19:01:55.000Z"
             <li class="columns medium-6" data-equalizer-watch>
               <div class="row">
                 <div class="columns large-3 large-offset-1 image-container text-center">
-                  <img src="https://www.consulting.com/website/assets/img/ico_brain.png" alt="">
+                  
+<a src="https://www.consulting.com/website/assets/img/ico_brain.png" alt="">
                 </div>
                 <div class="columns large-8 feature-description">
                   <h3>Mental Reprogramming</h3>
@@ -112,7 +117,8 @@ modified: "2020-11-07T19:01:55.000Z"
             <li class="columns medium-6" data-equalizer-watch>
               <div class="row">
                 <div class="columns large-3 large-offset-1 image-container text-center">
-                  <img src="https://www.consulting.com/website/assets/img/ico_community.png" alt="">
+                  
+<a src="https://www.consulting.com/website/assets/img/ico_community.png" alt="">
                 </div>
                 <div class="columns large-8 feature-description">
                   <h3>Entrepreneur Community</h3>
@@ -123,7 +129,8 @@ modified: "2020-11-07T19:01:55.000Z"
             <li class="columns medium-6" data-equalizer-watch>
               <div class="row">
                 <div class="columns large-3 large-offset-1 image-container text-center">
-                  <img src="https://www.consulting.com/website/assets/img/ico_q_and_a.png" alt="">
+                  
+<a src="https://www.consulting.com/website/assets/img/ico_q_and_a.png" alt="">
                 </div>
                 <div class="columns large-8 feature-description">
                   <h3>Expert mentorship</h3>
@@ -166,8 +173,10 @@ modified: "2020-11-07T19:01:55.000Z"
               <div class="columns large-8 large-centered">
                 <div class="row">
                   <div class="columns medium-6 text-center rating-stars">
-                      <div class="heart"><img src="https://www.consulting.com/website/assets/img/heart_red.png" alt=""></div>
-                      <img src="https://www.consulting.com/website/assets/img/star_rating.png" alt="" class="stars">
+                      <div class="heart">
+<a src="https://www.consulting.com/website/assets/img/heart_red.png" alt=""></div>
+                      
+<a src="https://www.consulting.com/website/assets/img/star_rating.png" alt="" class="stars">
                   </div>
                   <div class="columns medium-6 rating-texts">
                     <p><span class="xlarge-line-break">4.9 Stars from 3,758 customer reviews</span> 22% of reviews include the word "love"</p>
@@ -187,7 +196,8 @@ modified: "2020-11-07T19:01:55.000Z"
         <div class="row">
       
           <div class="columns large-5 image-container">
-            <img src="https://www.consulting.com/website/assets/img/full_stack.png" alt="Full Stack">
+            
+<a src="https://www.consulting.com/website/assets/img/full_stack.png" alt="Full Stack">
           </div>
           <div class="columns large-6">
             <div class="section-title">
@@ -393,7 +403,8 @@ modified: "2020-11-07T19:01:55.000Z"
                 </p>
               </div>
               <div class="columns medium-7 medium-pull-5 image-container">
-                <img src="https://www.consulting.com/website/assets/img/consulting_accelerator_package_2.jpg" alt="Online e-learning platform">
+                
+<a src="https://www.consulting.com/website/assets/img/consulting_accelerator_package_2.jpg" alt="Online e-learning platform">
               </div>
             </li>
             <li class="row boxset">
@@ -407,7 +418,8 @@ modified: "2020-11-07T19:01:55.000Z"
                 </p>
               </div>
               <div class="columns medium-7 image-container">
-                <img src="https://www.consulting.com/website/assets/img/physical_products_lineup.jpg" alt="Boxset of physical workbooks">
+                
+<a src="https://www.consulting.com/website/assets/img/physical_products_lineup.jpg" alt="Boxset of physical workbooks">
               </div>
               </li>
             <li class="row community">
@@ -421,7 +433,8 @@ modified: "2020-11-07T19:01:55.000Z"
                 </p>
               </div>
               <div class="columns medium-6 medium-pull-6 image-container ">
-                <img src="https://www.consulting.com/website/assets/img/entrepreneur_community.jpg" alt="Interactive entrepreneur community">
+                
+<a src="https://www.consulting.com/website/assets/img/entrepreneur_community.jpg" alt="Interactive entrepreneur community">
               </div>
             </li>
             <li class="row mentorship">
@@ -435,7 +448,8 @@ modified: "2020-11-07T19:01:55.000Z"
                 </p>
               </div>
               <div class="columns medium-7 image-container ">
-                <img src="https://www.consulting.com/website/assets/img/expert_mentorship_on_demand.jpg" alt="Expert mentorship on demand">
+                
+<a src="https://www.consulting.com/website/assets/img/expert_mentorship_on_demand.jpg" alt="Expert mentorship on demand">
               </div>
             </li>
             <li class="row live-events">
@@ -449,7 +463,8 @@ modified: "2020-11-07T19:01:55.000Z"
                 </p>
               </div>
               <div class="columns medium-6 medium-pull-6 image-container">
-                <img src="https://www.consulting.com/website/assets/img/live_in_person_events.jpg" alt="Live in-person events">
+                
+<a src="https://www.consulting.com/website/assets/img/live_in_person_events.jpg" alt="Live in-person events">
               </div>
             </li>
           </ul>
@@ -466,7 +481,8 @@ modified: "2020-11-07T19:01:55.000Z"
           <ul class="row no-bullet">
             <li class="columns medium-4">
               <div class="image-container">
-                <img class="photo" src="https://www.consulting.com/website/assets/img/team_accounting_tax.jpg" alt="AccountingTax.com">
+                
+<a class="photo" src="https://www.consulting.com/website/assets/img/team_accounting_tax.jpg" alt="AccountingTax.com">
               </div>
               <h3>AccountingTax.com</h3>
               <p>Andrew & Amanda Argue<br>
@@ -477,7 +493,8 @@ modified: "2020-11-07T19:01:55.000Z"
   
             <li class="columns medium-4">
               <div class="image-container">
-                <img class="photo" src="https://www.consulting.com/website/assets/img/team_proof.jpg" alt="Proof">
+                
+<a class="photo" src="https://www.consulting.com/website/assets/img/team_proof.jpg" alt="Proof">
               </div>
               <h3>Proof</h3>
               <p>Dave Rogenmosser<br>
@@ -488,7 +505,8 @@ modified: "2020-11-07T19:01:55.000Z"
   
             <li class="columns medium-4">
               <div class="image-container">
-                <img class="photo" src="https://www.consulting.com/website/assets/img/hunter_otis.jpg" alt="Hunter Otis - Becoming Porn Free">
+                
+<a class="photo" src="https://www.consulting.com/website/assets/img/hunter_otis.jpg" alt="Hunter Otis - Becoming Porn Free">
               </div>
               <h3>Becoming Porn Free</h3>
               <p>Nicole & Hunter Otis<br>
@@ -513,7 +531,8 @@ modified: "2020-11-07T19:01:55.000Z"
         
           <div class="ratings-container text-center">
             <div class="rating-stars">
-              <img src="https://www.consulting.com/website/assets/img/star_rating.png" alt="">
+              
+<a src="https://www.consulting.com/website/assets/img/star_rating.png" alt="">
             </div>
             <a href="https://www.consulting.com/reviews">4.9 Stars from 3,200+ student reviews</a>
           </div>
