@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/adicheo",
       "Discord": "https://discord.gg/NA8J36R9",
+      "OI": "https://oi.newom.one",
     },
   }),
 }
@@ -41,9 +42,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Graph(),
   ],
 }
 
